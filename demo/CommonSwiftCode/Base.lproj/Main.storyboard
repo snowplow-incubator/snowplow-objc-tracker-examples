@@ -13,7 +13,7 @@
         <!--Demo controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController storyboardIdentifier="demo" title="Demo controller" id="BYZ-38-t0r" customClass="DemoViewController" customModule="SnowplowSwiftSPMDemo" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="demo" title="Demo controller" id="BYZ-38-t0r" customClass="DemoViewController" customModule="SnowplowSwiftDemo" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -233,7 +233,7 @@
         <!--Metrics controller-->
         <scene sceneID="ToC-jt-m1c">
             <objects>
-                <viewController storyboardIdentifier="metrics" title="Metrics controller" id="yEk-KA-DEO" customClass="MetricsViewController" customModule="SnowplowSwiftSPMDemo" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="metrics" title="Metrics controller" id="yEk-KA-DEO" customClass="MetricsViewController" customModule="SnowplowSwiftDemo" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="TYn-K2-B4R">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -334,7 +334,7 @@
         <!--Pageview controller-->
         <scene sceneID="RMb-kq-vD5">
             <objects>
-                <pageViewController autoresizesArchivedViewToFullSize="NO" title="Pageview controller" transitionStyle="scroll" navigationOrientation="horizontal" spineLocation="none" id="BD3-Hb-Mgx" customClass="PageViewController" customModule="SnowplowSwiftSPMDemo" customModuleProvider="target" sceneMemberID="viewController"/>
+                <pageViewController autoresizesArchivedViewToFullSize="NO" title="Pageview controller" transitionStyle="scroll" navigationOrientation="horizontal" spineLocation="none" id="BD3-Hb-Mgx" customClass="PageViewController" customModule="SnowplowSwiftDemo" customModuleProvider="target" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Q1C-T3-RIc" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="479" y="-618"/>
@@ -342,7 +342,7 @@
         <!--Additional View Controller-->
         <scene sceneID="ifC-2O-6p1">
             <objects>
-                <viewController storyboardIdentifier="additional" id="OQ6-f8-9wr" customClass="AdditionalViewController" customModule="SnowplowSwiftSPMDemo" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="additional" id="OQ6-f8-9wr" customClass="AdditionalViewController" customModule="SnowplowSwiftDemo" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="LnC-5B-NDm">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
